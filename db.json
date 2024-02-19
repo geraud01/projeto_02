@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Restaurante",
+            "image": "https://static.ifood-static.com.br/image/upload/f_auto/webapp/landingV2/restaurant.png",
+            "link": "/restaurantes"
+        },
+        {
+            "id": 2,
+            "title": "Mercado",
+            "image": "https://static.ifood-static.com.br/image/upload/f_auto/webapp/landingV2/market.png",
+            "link": "/mercados"
+        }
+    ],
+    "smallLinks": [
+        {
+            "id": 1,
+            "title": "Bebidas",
+            "image": "https://static.ifood-static.com.br/image/upload/f_auto/webapp/landingV2/drinks.png",
+            "link": "/bebidas"
+        },
+        {
+            "id": 2,
+            "title": "Farmácia",
+            "image": "https://static.ifood-static.com.br/image/upload/f_auto/webapp/landingV2/pharmacy.png",
+            "link": "/farmacia"
+        },
+        {
+            "id": 3,
+            "title": "Pet shop",
+            "image": "https://static.ifood-static.com.br/image/upload/f_auto/webapp/landingV2/petshop.png",
+            "link": "/petshop"
+        }
+    ],
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Mcdonald's",
+            "description": "Lanches",
+            "logo": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo McDonald_MCDON_DRIV15.jpg?imwidth=128",
+            "superBadge": true
+        },
+        {
+            "id": 2,
+            "name": "Coco Bambu",
+            "description": "Frutos Do Mar",
+            "logo": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201910292243_94aaf166-84cc-4ebf-a35d-d223be34d01f.png?imwidth=128",
+            "superBadge": true
+        },
+        {
+            "id": 3,
+            "name": "China in Box",
+            "description": "Chinesa",
+            "logo": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/d4a3984f-2b73-4f46-99df-1d6bc79ff293/202001031317_CXpO_i.png?imwidth=128",
+            "superBadge": true
+        },
+        {
+            "id": 4,
+            "name": "Habib's",
+            "description": "Lanches",
+            "logo": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201801231937__HABIB_VERDE.jpg?imwidth=128",
+            "superBadge": true
+        },
+        {
+            "id": 5,
+            "name": "Outback Steakhouse",
+            "description": "Lanches",
+            "logo": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201906182008_2b157a73-7564-4733-94c1-8d0376e7bb39.png?imwidth=128",
+            "superBadge": true
+        }
+    ],
+    "foodLoverBanner": {
+        "title": "Você tem fome do quê?",
+        "imageAlt": "Fotos descontraídas de pessoas que trabalham no iFood",
+        "imageUrl": "https://static.ifood-static.com.br/image/upload/t_high,q_100/webapp/landingV2/food-lover-banner.jpg",
+        "contentText": "Descubra como é ser um FoodLover e faça parte da nossa revolução!",
+        "actionLink": "https://carreiras.ifood.com.br/",
+        "actionText": "Saiba mais"
+    }
+}
